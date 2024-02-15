@@ -3,10 +3,10 @@
 	"product": {
 		"id": "/product",
 		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        "thumb": "https://neryxomka.com/template/img/welcome.png",
-        "thumbs": ["https://neryxomka.com/template/img/welcome.png", "https://images.unsplash.com/photo-1691661485699-7e459573cb35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80", "https://images.unsplash.com/photo-1682685797366-715d29e33f9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"], 
-		"name": "product"
+		"short": "Innovative Designs for Every Space:",
+		"description": "Our curated selection encompasses a wide range of furniture styles, from contemporary and modern to classic and eclectic. Whether you are furnishing your living room, bedroom, dining area, or home office, our designs are crafted to complement various tastes and preferences. Explore innovative designs that seamlessly blend form and function.",
+        "thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"], 
+		"name": "Furniture"
 	}
 }
