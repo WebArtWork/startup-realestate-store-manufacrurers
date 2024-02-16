@@ -160,34 +160,6 @@
 			}
 		]
   },
-
-	"tags": [
-		{
-			"category": {
-				"group": "article"
-			},
-			"name": "Tag one"
-		},
-		{
-			"category": {
-				"group": "product"
-			},
-			"name": "Tag one"
-		},
-		{
-			"category": {
-				"group": "service"
-			},
-			"name": "Tag one"
-		},
-    {
-			"category": {
-				"group": "portfolio"
-			},
-			"name": "Tag one"
-		}
-	],
-
 	"groups": [
 		{
 			"categories": [
